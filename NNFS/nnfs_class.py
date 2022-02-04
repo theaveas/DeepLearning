@@ -8,6 +8,7 @@ class Dense:
         n_neurons = number of desired neurons
         """
         # using np.random.randn and * 0.01 is to break the symetry of the neurons
+        
         self.weights = np.random.randn(n_inputs, n_neurons) * 0.01
         # biases can be initialize as zeros
         self.biases = np.zeros((1, n_neurons))
@@ -21,18 +22,36 @@ class Dense:
         output = Output of the training example
         """
         # calculate the output layer
+        self.inputs = inputs
         output = np.dot(inputs, self.weights) + self.biases
         
         return output
     
+    def backward(self, dvalues):
+        """Calculate gradient descent on parameter
+
+        Args:
+            dvalues ([type]): [description]
+
+        Returns:
+            [type]: [description]
+        """
+        self.weights = np.dot(self.inputs.T, dvalues)
+        self.biases = np.sum(dvalues, axis=0, keepdims=True)
+        self.dinputs = np.dot(dvalues, self.weights.T)
     
 # ReLU activation
 class Activation_ReLU:
     def forward(self, inputs):
+        self.inputs = inputs
         output = np.maximum(0, inputs)
         
         return output
     
+    def backward(self, dvalues):
+        self.dinputs = dvalues.copy()
+        
+        self.dinputs[self.inputs <=0] = 0
     
 # Sotfmax activation
 class Activation_Softmax:
