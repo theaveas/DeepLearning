@@ -21,16 +21,32 @@
 | Chapter 13     | Best practice for the real world                                     |  WIP | WIP |
 
 
+### [Neural Networks From Scratch]((https://nnfs.io/)
+<p> How to build a Neural Networks from scatch with Python and Numpy </p>
 
-- [Neural Networks From Scratch](https://nnfs.io/) How to build a Neural Networks from scatch with Python and Numpy
-  - Chapter one : [Introducing To Neuron Network](https://github.com/theaveas/DeepLearning/blob/main/NNFS/01_nnfs_introducing_neural_networks.ipynb) 
-  - Chapter two : [Coding Your First Neuron Network](https://github.com/theaveas/DeepLearning/blob/main/NNFS/02_nnfs_coding_our_first_neurons.ipynb)
-  - Chapter three : [Adding Layer](https://github.com/theaveas/DeepLearning/blob/main/NNFS/03_nnfs_adding_layers.ipynb)
-  - Chapter four : [Activation Function](https://github.com/theaveas/DeepLearning/blob/main/NNFS/04_nnfs_activation_functions.ipynb)
-  - Chapter five : [Calculation Network Error With Loss](https://github.com/theaveas/DeepLearning/blob/main/NNFS/05_nnfs_calculating_network_error_with_loss.ipynb)
-  - Chapter six : [Introducing Optimization](https://github.com/theaveas/DeepLearning/blob/main/NNFS/06_nnfs_introducing_optimization.ipynb)
-- [Deep Learning Specialization](https://www.deeplearning.ai/program/deep-learning-specialization/)
-
+| Content        | Topics.       | Colab | Github |
+| -------------  | ------------- | ----- | ------ |
+| Chapter 2      | Coding your first neural network                     | [![Open in Colab](https://img.shields.io/static/v1?label=&message=Open%20in%20Colab&labelColor=grey&color=blue&logo=google-colab)](https://colab.research.google.com/github/theaveas/DeepLearning/blob/main/DLwithPython/chp02_dlwithpy.ipynb)| [![Open in GitHub](https://img.shields.io/static/v1?label=&message=Open%20in%20GitHub&labelColor=grey&color=blue&logo=github)](https://github.com/theaveas/DeepLearning/blob/main/DLwithPython/chp02_dlwithpy.ipynb)
+| Chapter 3      | Adding layers                                        |  WIP | WIP |
+| Chapter 4      | Activation function                                  |  WIP | WIP |
+| Chapter 5      | Calculation Network error loss                       |  WIP | WIP |
+| Chapter 6      | Introducing optimization                             |  WIP | WIP |
+| Chapter 7      | Derivatives                                          |  WIP | WIP |
+| Chapter 8      | Gradients, Partial derivative, and the chain rules   |  WIP | WIP |
+| Chapter 9      | Backpropagation                                      |  WIP | WIP |
+| Chapter 10     | Optimizers                                           |  WIP | WIP |
+| Chapter 11     | Testing data                                         |  WIP | WIP |
+| Chapter 12     | Validation data                                      |  WIP | WIP |
+| Chapter 13     | Training dataset                                     |  WIP | WIP |
+| Chapter 14     | L1 and L2 regularization                             |  WIP | WIP |
+| Chapter 15     | Dropout                                              |  WIP | WIP |
+| Chapter 16     | Binary logistic regression                           |  WIP | WIP |
+| Chapter 17     | Regression                                           |  WIP | WIP |
+| Chapter 18     | Model object                                         |  WIP | WIP |
+| Chapter 19     | Real dataset                                         |  WIP | WIP |
+| Chapter 20     | Model evaluation                                     |  WIP | WIP |
+| Chapter 21     | Saving and loading model information                 |  WIP | WIP |
+| Chapter 22     | Model prediction_inference                           |  WIP | WIP |
 
 
 <!--
