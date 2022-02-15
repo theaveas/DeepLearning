@@ -36,8 +36,8 @@
 | Content        | Topics.       | Colab | Github |
 | -------------  | ------------- | ----- | ------ |
 | Chapter 2      | The Mathematical building blocks of Neural Network                   | [![Open in Colab](https://img.shields.io/static/v1?label=&message=Open%20in%20Colab&labelColor=grey&color=blue&logo=google-colab)](https://colab.research.google.com/github/theaveas/DeepLearning/blob/main/DLwithPython/chp02_dlwithpy.ipynb)| [![Open in GitHub](https://img.shields.io/static/v1?label=&message=Open%20in%20GitHub&labelColor=grey&color=blue&logo=github)](https://github.com/theaveas/DeepLearning/blob/main/DLwithPython/chp02_dlwithpy.ipynb)
-| Chapter 3      | Introduction to Keras and Tensorflow                                 |  WIP | WIP |
-| Chapter 4      | Getting started with neural networks: Classification and regression  |  WIP | WIP |
+| Chapter 3      | Introduction to Keras and Tensorflow                                 | [![Open in Colab](https://img.shields.io/static/v1?label=&message=Open%20in%20Colab&labelColor=grey&color=blue&logo=google-colab)](https://colab.research.google.com/github/theaveas/DeepLearning/blob/main/DLwithPython/chapter03_dl4python.ipynb) | [![Open in GitHub](https://img.shields.io/static/v1?label=&message=Open%20in%20GitHub&labelColor=grey&color=blue&logo=github)](https://github.com/theaveas/DeepLearning/blob/main/DLwithPython/chapter03_dl4python.ipynb) |
+| Chapter 4      | Getting started with neural networks: Classification and regression  | [![Open in Colab](https://img.shields.io/static/v1?label=&message=Open%20in%20Colab&labelColor=grey&color=blue&logo=google-colab)](https://colab.research.google.com/github/theaveas/DeepLearning/blob/main/DLwithPython/chapter04_dl4python.ipynb)| [![Open in GitHub](https://img.shields.io/static/v1?label=&message=Open%20in%20GitHub&labelColor=grey&color=blue&logo=github)](https://github.com/theaveas/DeepLearning/blob/main/DLwithPython/chapter04_dl4python.ipynb) |
 | Chapter 5      | Fundamentals of machine learning                                     |  WIP | WIP |
 | Chapter 6      | The universal workflow of machine learning                           |  WIP | WIP |
 | Chapter 7      | Working with Keras a deep dive                                       |  WIP | WIP |
@@ -52,6 +52,6 @@
 
 
 <!--
-open in colab logo   : ![Open in Colab](https://img.shields.io/static/v1?label=&message=Open%20in%20Colab&labelColor=grey&color=blue&logo=google-colab)]
-open in github logo  : ![Open in GitHub](https://img.shields.io/static/v1?label=&message=Open%20in%20GitHub&labelColor=grey&color=blue&logo=github)]
+[github]: [![Open in Colab](https://img.shields.io/static/v1?label=&message=Open%20in%20Colab&labelColor=grey&color=blue&logo=google-colab)]
+open in github logo  : [![Open in GitHub](https://img.shields.io/static/v1?label=&message=Open%20in%20GitHub&labelColor=grey&color=blue&logo=github)]
 -->
